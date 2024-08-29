@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="gesall:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gesall_jar</output-path>
+    <root id="archive" name="gesall.jar">
+      <element id="module-output" name="gesall" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
